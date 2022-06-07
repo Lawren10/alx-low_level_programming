@@ -6,4 +6,4 @@
  * 
  */
 
-void _putchar(char letter)
+void _putchar(char letter);
