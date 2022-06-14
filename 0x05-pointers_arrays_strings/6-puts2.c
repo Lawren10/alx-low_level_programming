@@ -2,7 +2,7 @@
 
 /**
  * puts2 -function that print alternating chars of string
- * 
+ *@str: string 
  * Return: void
  */
 
