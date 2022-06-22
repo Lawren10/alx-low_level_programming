@@ -2,7 +2,7 @@
 
 int prime_helper(int n, int m);
 /**
- * divisors - number is prime?
+ * prime_helper - number is prime?
  * @n: integer params
  * @m: integer params
  * Return: boolean
