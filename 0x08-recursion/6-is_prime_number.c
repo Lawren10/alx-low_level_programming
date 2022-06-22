@@ -1,6 +1,6 @@
 #include "main.h"
 
-
+int prime_helper(int n, int m);
 /**
  * divisors - number is prime?
  * @n: integer params
