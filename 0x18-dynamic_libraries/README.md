@@ -27,6 +27,3 @@ What you should learn from this project:
 
 
 ---
-
-## Author
-* **Oliver Samuel** - [Tecnophille](https://github.com/Tecnophille)
